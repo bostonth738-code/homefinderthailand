@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bostonth738-code.github.io/homefinderthailand/sitemap.xml
